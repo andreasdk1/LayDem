@@ -301,4 +301,14 @@ dependencies: \
   ../../../include/cinder/app/App.h ../../../include/cinder/Rand.h \
   ../../../include/cinder/Vector.h \
   /Users/andreaslay/GitFolder/Cinder/myapps/LayDem3/include/ParticleController.h \
-  ../include/Particle.h ../../../include/cinder/Channel.h
+  ../include/Particle.h ../../../include/cinder/Channel.h \
+  ../../../include/cinder/CinderImGui.h ../../../include/imgui/imgui.h \
+  ../../../include/cinder/CinderImGuiConfig.h \
+  ../../../include/cinder/Export.h ../../../include/cinder/Color.h \
+  ../../../include/cinder/CinderAssert.h \
+  ../../../include/cinder/gl/platform.h \
+  ../../../include/imgui/imconfig.h \
+  ../../../include/imgui/imgui_stdlib.h \
+  ../../../include/cinder/Filesystem.h \
+  ../../../include/cinder/CinderGlm.h \
+  ../../../include/cinder/Noncopyable.h

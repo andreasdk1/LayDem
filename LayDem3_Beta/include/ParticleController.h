@@ -19,5 +19,8 @@ public:
     void addParticlesXY();
     void removeParticles( int amt );
     void removeParticleCloseToMouse ( cinder::vec2 mouseCoords);
+    void selectParticle();
+    void deselectParticle();
+    void printParticleProperties();
     std::list<Particle> mParticles;
 };
